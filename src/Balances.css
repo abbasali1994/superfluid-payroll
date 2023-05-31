@@ -1,0 +1,97 @@
+.balances {
+    display: grid;
+    align-items: flex-start;
+    margin-top: 1%;
+    background: #FFFFFF;
+    border-color: #a6a6a6;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1%;
+}
+
+.balances:hover{
+    border-color: #725AC1;
+}
+
+.displayBalances {
+    display: grid;
+    align-items: flex-start;
+    margin-top: 1%;
+    background: #FFFFFF;
+    border-color: #a6a6a6;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1%;
+    width: 80%;
+
+}
+
+.displayBalances:hover{
+    background-color: #725AC1;
+}
+
+.funding {
+    width: 70%;
+    height: 80%;
+    margin-left: 5%;
+    margin-top: 1%;
+    padding-top: 7%;
+    background: #FFFFFF;
+    border-radius: 3%;
+    border-color: #a6a6a6;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.funding:hover{
+    border-color: #725AC1;
+}
+
+.withdrawFunds {
+    width: 100%;
+    margin-top: 1%;
+    padding: 2%;
+    background: #FFFFFF;
+    border-color: #a6a6a6;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1%;
+}
+
+.withdrawFunds:hover{
+    border-color: #725AC1;
+}
+
+.addFunds {
+    width: 100%;
+    padding: 2%;
+    margin-top: 5%;
+    background: #FFFFFF;
+    border-color: #a6a6a6;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1%;
+}
+
+.addFunds:hover{
+    border-color: #725AC1;
+}
+
+.addWithdrawButton {
+    background: #725AC1;
+    border-color: #725AC1;
+}
+
+.addWithdrawButton:hover{
+    background-color: #FFFFFF;
+    border-color: #725AC1;
+    border-style: solid;
+    color: #725AC1;
+    border-width: 1px;
+}
